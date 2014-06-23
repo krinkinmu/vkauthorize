@@ -26,3 +26,9 @@ Makefile*
 # QtCreator
 
 *.autosave
+
+# Test
+
+main.cpp
+testvkauth.h
+testvkauth.cpp
